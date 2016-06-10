@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio for freecodecamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Feroli/portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Fernando Ania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Feroli/portfolio/issues"
+  },
+  "homepage": "https://github.com/Feroli/portfolio#readme"
+}
